@@ -28,7 +28,7 @@ header h1 {
   }
 
   header h1 {
-      background-color: rgba(36, 129, 191, 0.5); /* Fondo semitransparente negro */
+      background-color: rgba(191, 36, 168, 0.5); /* Fondo semitransparente negro */
     font-size: 2em;
     padding: 15px;
   }
@@ -42,7 +42,7 @@ header h1 {
   }
 
   header h1 {
-     background-color: rgba(21, 185, 89, 0.5); /* Fondo semitransparente negro */
+     background-color: rgba(29, 21, 185, 0.5); /* Fondo semitransparente negro */
     font-size: 1.5em;
     padding: 10px;
   }
